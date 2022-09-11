@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nandhu1296/nodeimages/issues"
   },
-  "homepage": "https://github.com/Nandhu1296/nodeimages#readme"
+  "homepage": "https://github.com/Nandhu1296/nodeimages#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
